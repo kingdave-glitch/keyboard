@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+     }
+.top{
+background-color: rgb(89, 89, 180);
+position: absolute;
+width: 100%;
+}
+
+.logo{
+    color: beige;
+    font-size: xx-large;
+    padding-left: 50px;
+}
+
+.form1{
+    float: right;
+    position: relative;
+    margin-top: 35px;
+    margin-right: 100px;
+}
+
+#pwd{
+    color: beige;
+}
+
+.form2{
+    margin-top: 110px;
+    float: right;
+    width: 35%;
+    padding-left: 70px;
+    height: 100%;
+    
+}
+    
+.right{
+    background-color: rgb(16, 83, 112);
+    }
+#pics{
+    width: 45%;
+    height: 300px;
+    position: relative;
+    margin-left: 7%;
+    padding-top: 12%;
+   }
+
+
+
+.Create{
+    background-color: rgba(90, 219, 90, 0.986);
+}
+
+.name1{
+    color: darkgrey;
+}
+
+.lname1{
+    color: darkgrey;
+}
+
+.Email1{
+    color: darkgrey;
+}
+
+.Email2{
+    color: darkgrey;
+}
+
+.password1{
+    color: darkgrey;
+}
+
+
+    
